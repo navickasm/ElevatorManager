@@ -13,5 +13,6 @@ public class Elevator {
      * Take input from button
      * If emergency, take elev. to place where fire isn't, lobby preferred
      * Fire Serv. keyway (hold)
+     * Test2
      */
 }
